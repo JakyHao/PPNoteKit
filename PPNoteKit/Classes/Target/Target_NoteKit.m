@@ -9,7 +9,7 @@
 
 @implementation Target_NoteKit
 
-- (UIViewController *)Action_getMainController {
+- (UIViewController *)Action_getMainController:(NSDictionary *)params {
     
     Class class = NSClassFromString(@"PPNoteMainViewController");
     return [[class alloc]init];

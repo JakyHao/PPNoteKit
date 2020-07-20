@@ -11,7 +11,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface Target_NoteKit : NSObject
 
-- (UIViewController *)Action_getMainController;
+- (UIViewController *)Action_getMainController:(NSDictionary *)params;
 
 @end
 
