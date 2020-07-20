@@ -1,0 +1,6 @@
+use_frameworks!
+target 'PPNoteKit_Tests' do
+  pod 'PPNoteKit', :path => '../'
+  
+  
+end
