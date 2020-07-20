@@ -1,0 +1,6 @@
+framework module PPNoteKit {
+  umbrella header "PPNoteKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

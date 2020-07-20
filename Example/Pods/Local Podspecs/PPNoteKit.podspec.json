@@ -1,0 +1,33 @@
+{
+  "name": "PPNoteKit",
+  "version": "0.1.0",
+  "summary": "A short description of PPNoteKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/JakyHao/PPNoteKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "haopf@rgnet.cn": "haopf@rgnet.cn"
+  },
+  "source": {
+    "git": "https://github.com/JakyHao/PPNoteKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PPNoteKit/Classes/**/*",
+  "dependencies": {
+    "PPCategoryKit": [
+
+    ],
+    "PPAPIsKit": [
+
+    ],
+    "Masonry": [
+
+    ]
+  }
+}
